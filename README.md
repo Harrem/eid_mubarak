@@ -20,7 +20,7 @@
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/repo.git`
+1. Clone the repository: `git clone https://github.com/harrem/eid_mubarak.git`
 2. Install dependencies: `npm install`
 
 ## Usage
