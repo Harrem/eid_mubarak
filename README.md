@@ -9,7 +9,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://www.ecma-international.org/ecma-262/6.0/)
 [![Firework.js](https://img.shields.io/badge/Firework.js-3.1.1-red.svg)](https://cdnjs.com/libraries/fireworks)
 
-> Add a brief description of your project here.
+> Simple web project for celebrating Islamic Eid.
 
 ## Table of Contents
 
