@@ -1,4 +1,4 @@
-# My Project
+# Eid Mubarak Project
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/username/repo.svg)](https://github.com/harrem/eid_mubarak/stargazers)
